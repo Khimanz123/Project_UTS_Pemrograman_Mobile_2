@@ -6,14 +6,16 @@ https://drive.google.com/drive/folders/1mHDZ-qZlb0Bvdasvo4LyMbyIVrLU0JZu?usp=sha
 
 Screenshot:
 1. Tampilan beranda:
-<img width="609" height="343" alt="image" src="https://github.com/user-attachments/assets/22881069-c404-4069-995f-3d9dbdcb4836" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c90b5461-bf88-48ce-b4f2-277bc4f7dfd5" />
 
 2. Tampilan hasil pencarian:
-<img width="614" height="345" alt="image" src="https://github.com/user-attachments/assets/d43c3ae8-e78f-452d-9a13-6d5c44c28851" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/ceac405b-976d-4b94-b3b7-74da19fa9930" />
 
 3. Tampilan filter genre
-<img width="623" height="350" alt="image" src="https://github.com/user-attachments/assets/c22b7130-a651-4d28-ab26-851a77ef413d" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/60c041e9-1163-4eb2-b839-38edd790db65" />
 
 4. Tampilan wishlist:
-<img width="631" height="355" alt="image" src="https://github.com/user-attachments/assets/60efdebc-4230-41c8-a404-288d7f8f6821" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/d78716a9-29b7-4420-94c6-a59c600f8e86" />
 
+5. Tampilan detail film:
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c85ece44-0236-46c4-bb66-c3c37949503f" />
